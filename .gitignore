@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+labelImg/
+yolov5/
+test/
+data/

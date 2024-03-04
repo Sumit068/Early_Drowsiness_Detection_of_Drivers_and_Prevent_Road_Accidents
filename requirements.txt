@@ -1,0 +1,6 @@
+#requirements for drowsyness detection
+opencv-python
+streamlit
+torch
+torchvision
+torchaudio
